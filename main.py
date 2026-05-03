@@ -37,7 +37,7 @@ class MainWindow(QWidget):
         self.btn_drinks.clicked.connect(self.drinks)
         self.btn_acc.clicked.connect(self.acc)
         self.btn_cart.clicked.connect(self.cart_open)
-        self.btn_exit.clicked.connect(self.close)  # без sys
+        self.btn_exit.clicked.connect(self.close)
 
         self.v_lay.addWidget(self.btn_fruits)
         self.v_lay.addWidget(self.btn_veg)
