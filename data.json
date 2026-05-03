@@ -1,0 +1,30 @@
+{
+    "Fruits": {
+        "Olma": 5000,
+        "Banan": 6000,
+        "Apelsin": 7000,
+        "Uzum": 8000,
+        "Qulupne": 12000
+    },
+    "Vegetables": {
+        "Kartoshka": 3000,
+        "Sabzi": 2000,
+        "Piyoz": 2500,
+        "Bodrin": 4000,
+        "Pamidor": 4500
+    },
+    "Drinks": {
+        "Cola": 10000,
+        "Pepsi": 10000,
+        "Suv": 3000,
+        "Sprite": 9000,
+        "Limon Choy": 2000
+    },
+    "Accessories": {
+        "Chehol": 50000,
+        "Zaryadchik": 30000,
+        "Powerbank": 80000,
+        "Kovrik": 40000,
+        "Klaviatura": 70000
+    }
+}
